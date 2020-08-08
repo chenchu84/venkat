@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9450-8F8E
+
+ Directory of C:\Users\Vankata\Desktop\MyProject
+
+08/08/2020  05:01 PM    <DIR>          .
+08/08/2020  05:01 PM    <DIR>          ..
+08/08/2020  05:01 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  13,473,878,016 bytes free
